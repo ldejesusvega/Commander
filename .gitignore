@@ -1,2 +1,6 @@
 obj/Debug/netcoreapp3.1/Commander.csproj.FileListAbsolute.txt
 obj/project.assets.json
+bin/Debug/netcoreapp3.1/Commander.deps.json
+bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+bin/Debug/netcoreapp3.1/Commander.deps.json
+bin/Debug/netcoreapp3.1/Properties/launchSettings.json
