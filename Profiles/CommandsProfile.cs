@@ -13,6 +13,8 @@ namespace Commander.Profiles
 
             /// Target to Model
             CreateMap<CommandCreateDto, Command>();
+            CreateMap<CommandUpdateDto, Command>();
+
         }
     }
 }
