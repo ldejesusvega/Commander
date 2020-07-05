@@ -10,10 +10,13 @@ namespace Commander.Profiles
         {
             /// Model to Target
             CreateMap<Command, CommandReadDto>();
+            CreateMap<Command, CommandUpdateDto>();
 
             /// Target to Model
             CreateMap<CommandCreateDto, Command>();
             CreateMap<CommandUpdateDto, Command>();
+
+
 
         }
     }
