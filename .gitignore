@@ -29,3 +29,8 @@ bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
 bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
 bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
 appsettings.Development.json
+obj/Commander.csproj.nuget.dgspec.json
+obj/Commander.csproj.nuget.g.props
+obj/Debug/netcoreapp3.1/Commander.AssemblyInfo.cs
+obj/Debug/netcoreapp3.1/Commander.csproj.CopyComplete
+obj/Debug/netcoreapp3.1/project.razor.json
